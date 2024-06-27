@@ -36,7 +36,7 @@ Add the checkout.js script in your index.html file.
 
 ```tsx
 import React, { Component } from 'react';
-import { FedaCheckoutButton, FedaCheckoutContainer } from 'fedapay-reactjs';
+import { FedaCheckoutButton, FedaCheckoutContainer } from 'fedapay-react';
 
 export default class App extends Component {
   PUBLIC_KEY = 'pk_sandbox_XXXXXX';
